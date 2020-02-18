@@ -1,0 +1,24 @@
+h1{
+    font-family: 'Gill Sans';
+    color: black;
+    text-align: center;
+}
+.paragraph1{
+    font-family: 'Gill Sans';
+    text-align: center;
+}
+.topic{
+    text-align: justify;
+    float: right;                                                 
+    margin-right: 155px;
+}
+img{
+    padding-inline: 200px;  
+    border-radius: 50%;
+    margin-left:200px;
+    margin-top: 40px;
+}
+.paragraph2{
+    padding-right: 20%;
+    float: right;
+}
